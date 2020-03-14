@@ -4,3 +4,4 @@ main.out
 combinatorics/*.o
 anything/*.o
 recursion/*.o
+matrices/*.o
